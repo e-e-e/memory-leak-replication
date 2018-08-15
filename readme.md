@@ -1,5 +1,7 @@
 # A simple example to demonstrate memory leak
 
+I am not sure where the memory leak lies, it could be in hyperdb replication or in the discovery layer.
+
 To replicate run:
 
 1. `npm i`
